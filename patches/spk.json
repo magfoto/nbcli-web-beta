@@ -12,97 +12,97 @@
     "externalDataRefs": [
       {
         "id": "spk1",
-        "file": "../media/t1.wav",
+        "file": "media/t1.wav",
         "type": "Float32Buffer",
         "tag": "buffer~"
       },
       {
         "id": "spk2",
-        "file": "../media/t2.wav",
+        "file": "media/t2.wav",
         "type": "Float32Buffer",
         "tag": "buffer~"
       },
       {
         "id": "spk3",
-        "file": "../media/t3.wav",
+        "file": "media/t3.wav",
         "type": "Float32Buffer",
         "tag": "buffer~"
       },
       {
         "id": "spk4",
-        "file": "../media/t4.wav",
+        "file": "media/t4.wav",
         "type": "Float32Buffer",
         "tag": "buffer~"
       },
       {
         "id": "spk5",
-        "file": "../media/t5.wav",
+        "file": "media/t5.wav",
         "type": "Float32Buffer",
         "tag": "buffer~"
       },
       {
         "id": "spk6",
-        "file": "../media/t6.wav",
+        "file": "media/t6.wav",
         "type": "Float32Buffer",
         "tag": "buffer~"
       },
       {
         "id": "spk7",
-        "file": "../media/t7.wav",
+        "file": "media/t7.wav",
         "type": "Float32Buffer",
         "tag": "buffer~"
       },
       {
         "id": "spk8",
-        "file": "../media/t8.wav",
+        "file": "media/t8.wav",
         "type": "Float32Buffer",
         "tag": "buffer~"
       },
       {
         "id": "spk9",
-        "file": "../media/t9.wav",
+        "file": "media/t9.wav",
         "type": "Float32Buffer",
         "tag": "buffer~"
       },
       {
         "id": "spk10",
-        "file": "../media/t10.wav",
+        "file": "media/t10.wav",
         "type": "Float32Buffer",
         "tag": "buffer~"
       },
       {
         "id": "spk11",
-        "file": "../media/t11.wav",
+        "file": "media/t11.wav",
         "type": "Float32Buffer",
         "tag": "buffer~"
       },
       {
         "id": "spk12",
-        "file": "../media/t12.wav",
+        "file": "media/t12.wav",
         "type": "Float32Buffer",
         "tag": "buffer~"
       },
       {
         "id": "spk13",
-        "file": "../media/t13.wav",
+        "file": "media/t13.wav",
         "type": "Float32Buffer",
         "tag": "buffer~"
       },
       {
         "id": "spk14",
-        "file": "../media/t14.wav",
+        "file": "media/t14.wav",
         "type": "Float32Buffer",
         "tag": "buffer~"
       },
       {
         "id": "spk15",
-        "file": "../media/t15.wav",
+        "file": "media/t15.wav",
         "type": "Float32Buffer",
         "tag": "buffer~"
       },
       {
         "id": "spk16",
-        "file": "../media/t16.wav",
+        "file": "media/t16.wav",
         "type": "Float32Buffer",
         "tag": "buffer~"
       }
